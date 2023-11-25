@@ -1,0 +1,2 @@
+# Novel-data-augmentation-method-for-road-extraction-from-Swiss-historical-maps
+This repository holds the code and documentation for the paper "Jiao, C., Heitzler, M. and Hurni, L., 2022. A novel data augmentation method to enhance the training dataset for road extraction from Swiss historical maps. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2, pp.423-429."
